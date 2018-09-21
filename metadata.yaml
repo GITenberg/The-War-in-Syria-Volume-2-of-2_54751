@@ -1,0 +1,30 @@
+_repo: The-War-in-Syria-Volume-2-of-2_54751
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Napier, Charles
+    aliases:
+    - Black Charlie
+    - Napier, Charlie
+    birthdate: 1786
+    deathdate: 1860
+    gutenberg_agent_id: '47400'
+    url: http://www.gutenberg.org/2009/agents/47400
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Napier_(Royal_Navy_officer)
+description: ''
+gutenberg_issued: '2017-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DT'
+- !lcsh 'Syria -- History'
+- !lcsh 'Turkey -- History -- 1829-1878'
+- !lcsh 'Egypt -- History -- Mohammed Ali, 1805-1849'
+- GITenberg
+title: The War in Syria, Volume 2 (of 2)
+url: http://www.gutenberg.org/ebooks/54751
